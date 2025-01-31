@@ -1,0 +1,29 @@
+id,attr1,-3,-2,-1,0,1,2,3,attr2
+-qp,Humain,,,,,,,,Technique
+qhi,M’isole,,,,,,,,Me sociabilise
+-att,Plaisant,,,,,,,,Déplaisant
+-qhs,Original,,,,,,,,Conventionnel
+-qp,Simple,,,,,,,,Compliqué
+-qhi,Professionnel,,,,,,,,Amateur
+att,Laid,,,,,,,,Beau
+-qp,Pratique,,,,,,,,Pas pratique
+-att,Agréable,,,,,,,,Désagréable
+qp,Fastidieux,,,,,,,,Efficace
+-qhi,De bon goût,,,,,,,,De mauvais goût
+-qp,Prévisible,,,,,,,,Imprévisible
+qhi,Bas de gamme,,,,,,,,Haut de gamme
+qhi,M’exclut,,,,,,,,M’intègre
+-qhi,Me rapproche des autres,,,,,,,,Me sépare des autres
+qhi,Non présentable,,,,,,,,Présentable
+att,Rebutant,,,,,,,,Attirant
+qhs,Sans imagination,,,,,,,,Créatif
+-att,Bon,,,,,,,,Mauvais
+qp,Confus,,,,,,,,Clair
+att,Repoussant,,,,,,,,Attrayant
+-qhs,Audacieux,,,,,,,,Prudent
+-qhs,Novateur,,,,,,,,Conservateur
+qhs,Ennuyeux,,,,,,,,Captivant
+qhs,Peu exigeant,,,,,,,,Challenging
+-att,Motivant,,,,,,,,Décourageant
+-qhs,Nouveau,,,,,,,,Commun
+qp,Incontrôlable,,,,,,,,Maîtrisable 
